@@ -1,0 +1,8 @@
+c:\users\jay.ceballos\documents\visual studio 2013\Projects\SNSD\SNSD\bin\Debug\SNSD.exe.config
+c:\users\jay.ceballos\documents\visual studio 2013\Projects\SNSD\SNSD\bin\Debug\SNSD.exe
+c:\users\jay.ceballos\documents\visual studio 2013\Projects\SNSD\SNSD\bin\Debug\SNSD.pdb
+c:\users\jay.ceballos\documents\visual studio 2013\Projects\SNSD\SNSD\bin\Debug\nunit.framework.dll
+c:\users\jay.ceballos\documents\visual studio 2013\Projects\SNSD\SNSD\bin\Debug\nunit.framework.xml
+c:\users\jay.ceballos\documents\visual studio 2013\Projects\SNSD\SNSD\obj\Debug\SNSD.exe
+c:\users\jay.ceballos\documents\visual studio 2013\Projects\SNSD\SNSD\obj\Debug\SNSD.pdb
+C:\Users\jay.ceballos\Documents\Visual Studio 2013\Projects\SNSD\SNSD\obj\Debug\SNSD.csprojResolveAssemblyReference.cache
